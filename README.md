@@ -6,7 +6,7 @@ A machine learning-based approach to network intrusion detection using the machi
 
 1. **Set environment:**
    ```bash
-   cd nids
+   cd NIDS
    python3 -m venv venvNIDS
    source venvNIDS/bin/activate
    pip install -r requirements.txt
