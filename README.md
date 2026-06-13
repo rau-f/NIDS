@@ -4,11 +4,13 @@ A machine learning-based approach to network intrusion detection using the KNN a
 
 ## Quick Start
 
-1. **Activate the environment:**
+1. **Set environment:**
    ```bash
+   cd nids
+   python3 -m venv venvNIDS
    source venvNIDS/bin/activate
+   pip install -r requirements.txt
    ```
-
 2. **Launch Jupyter:**
    ```bash
    jupyter notebook
