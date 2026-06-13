@@ -19,18 +19,8 @@ A machine learning-based approach to network intrusion detection using the KNN a
 3. **Open the notebook:**
    Navigate to `source/notebook.ipynb` in your browser.
 
-## Project Structure
-
-- `source/notebook.ipynb` — Model training and evaluation pipeline
-- `dataset/network_traffic.csv` — Network traffic dataset
-- `requirements.txt` — Python dependencies
-
 ## Features
 
 - Data preprocessing and feature extraction
 - KNN-based classification model
 - Performance metrics and evaluation
-
-## Requirements
-
-See `requirements.txt` for dependencies. Use Python 3.12+.
