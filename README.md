@@ -1,6 +1,6 @@
 # Network Intrusion Detection System
 
-A machine learning-based approach to network intrusion detection using the KNN algorithm for classification of network traffic patterns.
+A machine learning-based approach to network intrusion detection using the machine learning algorithms for classification of network traffic patterns.
 
 ## Quick Start
 
