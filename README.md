@@ -4,19 +4,24 @@ A machine learning-based approach to network intrusion detection using the machi
 
 ## Quick Start
 
-1. **Set environment:**
+1. **Clone:**
+   ```bash
+   https://github.com/rau-f/NIDS
+   ```
+
+2. **Set environment:**
    ```bash
    cd NIDS
    python3 -m venv venvNIDS
    source venvNIDS/bin/activate
    pip install -r requirements.txt
    ```
-2. **Launch Jupyter:**
+3. **Launch Jupyter:**
    ```bash
    jupyter notebook
    ```
 
-3. **Open the notebook:**
+4. **Open the notebook:**
    Navigate to `source/notebook.ipynb` in your browser.
 
 ## Features
