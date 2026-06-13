@@ -1,20 +1,34 @@
-# Project Notebook
+# Network Intrusion Detection System
 
-This project uses `source/notebook.ipynb` to train and evaluate models, including KNN.
+A machine learning-based approach to network intrusion detection using the KNN algorithm for classification of network traffic patterns.
 
-## Run
+## Quick Start
 
-1. Activate the virtual environment:
+1. **Activate the environment:**
    ```bash
    source venvNIDS/bin/activate
    ```
-2. Start Jupyter Notebook:
+
+2. **Launch Jupyter:**
    ```bash
    jupyter notebook
    ```
-3. Open `source/notebook.ipynb` in the browser.
 
-## Notes
+3. **Open the notebook:**
+   Navigate to `source/notebook.ipynb` in your browser.
 
-- The notebook includes data loading, preprocessing, model training, and classification metrics.
-- Use the `dataset/network_traffic.csv` file as input data.
+## Project Structure
+
+- `source/notebook.ipynb` — Model training and evaluation pipeline
+- `dataset/network_traffic.csv` — Network traffic dataset
+- `requirements.txt` — Python dependencies
+
+## Features
+
+- Data preprocessing and feature extraction
+- KNN-based classification model
+- Performance metrics and evaluation
+
+## Requirements
+
+See `requirements.txt` for dependencies. Use Python 3.12+.
